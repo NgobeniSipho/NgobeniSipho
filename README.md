@@ -22,6 +22,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NgobeniSipho&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+**Thank you for visiting my Github**
+
+![github-contribution-grid-snake](https://github.com/lisbeth34/lisbeth34/assets/131878280/886e358b-58cc-4706-b7d0-cb6cd58bf5b9)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=NgobeniSipho&icon=1&color=0)](https://visitcount.itsvg.in)
 
