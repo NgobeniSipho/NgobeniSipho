@@ -5,7 +5,8 @@
 </h1>
 # picture
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcomputador-gu-tecnology-bGgsc5mWoryfgKBx1u&psig=AOvVaw2Rv55LmZsJO_FLgjQFpSfC&ust=1720693853323000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLj_zY-lnIcDFQAAAAAdAAAAABAK"</img>
+<img src =  "https://github.com/NgobeniSipho/NgobeniSipho/assets/157616774/7786c466-fc06-4217-8d5e-c1e0c23e8b3d " alt = "PROGRAMMING" align = "right" width = "200"/>
+
 
 
 # 💫 About Me:
