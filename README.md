@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sipho+Ngobeni!⭐⭐+;+I'm+a+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
-#picture
+# picture
 
 ![siphoAnim](https://github.com/NgobeniSipho/NgobeniSipho/assets/157616774/eae5a5b6-c49a-414e-a84a-3fa0d828234c)
 
