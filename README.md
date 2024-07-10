@@ -5,7 +5,7 @@
 </h1>
 
 
-<img src =  "https://github.com/NgobeniSipho/NgobeniSipho/assets/157616774/7786c466-fc06-4217-8d5e-c1e0c23e8b3d " alt = "PROGRAMMING" align = "right" width = "220" margin-top = "20"/>
+<img src =  "https://github.com/NgobeniSipho/NgobeniSipho/assets/157616774/7786c466-fc06-4217-8d5e-c1e0c23e8b3d " alt = "PROGRAMMING" align = "right" width = "220" margin-top = "40"/>
 
 
 
