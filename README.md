@@ -3,9 +3,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sipho+Ngobeni!⭐⭐+;+I'm+a+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
-# picture
 
-<img src =  "https://github.com/NgobeniSipho/NgobeniSipho/assets/157616774/7786c466-fc06-4217-8d5e-c1e0c23e8b3d " alt = "PROGRAMMING" align = "right" width = "220"/>
+
+<img src =  "https://github.com/NgobeniSipho/NgobeniSipho/assets/157616774/7786c466-fc06-4217-8d5e-c1e0c23e8b3d " alt = "PROGRAMMING" align = "right" width = "220" margin-top = "20"/>
 
 
 
