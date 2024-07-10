@@ -5,7 +5,7 @@
 </h1>
 # picture
 
-![siphoAnim](https://github.com/NgobeniSipho/NgobeniSipho/assets/157616774/eae5a5b6-c49a-414e-a84a-3fa0d828234c)
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcomputador-gu-tecnology-bGgsc5mWoryfgKBx1u&psig=AOvVaw2Rv55LmZsJO_FLgjQFpSfC&ust=1720693853323000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLj_zY-lnIcDFQAAAAAdAAAAABAK"</img>
 
 
 # 💫 About Me:
